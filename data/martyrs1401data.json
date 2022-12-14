@@ -1,0 +1,1891 @@
+[
+    {
+        "id": "168",
+        "fullName": "مهسا امینی",
+        "source": "/images/mahsa.jpg",
+        "age": "۲۲",
+        "city": "تهران",
+        "death": "۲۵ شهریور",
+        "des": "ضربات به سر که باعث مرگ مغزی شد"
+    },
+
+    {
+        "id": "1",
+        "fullName": "آرنیکا قائم مقامی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "نامشخص",
+        "death": "۳۰ مهر",
+        "des": "ضربه مغزی بر اثر ضربات متعدد باتون"
+    },
+
+    {
+        "id": "189",
+        "fullName": "محمد حسنزاده",
+        "source": "/images/mh.jpg",
+        "age": "نامشخص",
+        "city": "کردستان",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "58",
+        "fullName": "خدانور لجه ای",
+        "source": "/images/noor.jpg",
+        "age": "۲۷",
+        "city": "زاهدان",
+        "death": "۱۰ مهر",
+        "des": "اثابت گلوله از ناحیه کلیه توسط ماموران"
+    },
+
+    {
+        "id": "165",
+        "fullName": "نیکا شاکرمی",
+        "source": "/images/nika.jpg",
+        "age": "۱۷",
+        "city": "تهران",
+        "death": "نامشخص",
+        "des": "ضربات متعدد باتون به سر و هزارتا کثافتکاری که خبر نداریم"
+    },
+
+    {
+        "id": "2",
+        "fullName": "آرش پهلوان",
+        "source": "/images/arash.jpg",
+        "age": "۲۷",
+        "city": "مشهد",
+        "death": "۳۰ شهریور",
+        "des": "شلیک مأموران به سر"
+    },
+
+    {
+        "id": "156",
+        "fullName": "حمیدرضا روحی",
+        "source": "/images/h.jpg",
+        "age": "۱۹",
+        "city": "تهران",
+        "death": "۲۷ آبان",
+        "des": "اصابت گلوله جنگی"
+    },
+
+    {
+        "id": "3",
+        "fullName": "آرمان حسنزئی",
+        "source": "/images/arman.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "تیراندازی از هلیکوپتر نظامی در شمال زاهدان"
+    },
+
+    {
+        "id": "4",
+        "fullName": "آرمین صیادی",
+        "source": "/images/sh.jpg",
+        "age": "۱۸",
+        "city": "کرمانشاه",
+        "death": "۲۱ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "71",
+        "fullName": "سارینا اسماعیل زاده",
+        "source": "/images/sarina.jpg",
+        "age": "۱۶",
+        "city": "کرج",
+        "death": "۳۰ شهریور",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "5",
+        "fullName": "ابراهیم گرگیج",
+        "source": "/images/ebrahim.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "6",
+        "fullName": "ابوالفضل اکبریدوست",
+        "source": "/images/akbari.jpg",
+        "age": "۲۸",
+        "city": "لنگرود",
+        "death": "۲۹ شهریور",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "7",
+        "fullName": "ابوالفضل مهدیپور",
+        "source": "/images/mehdipour.jpg",
+        "age": "نامشخص",
+        "city": "بابل",
+        "death": "۳۰ شهریوز",
+        "des": "شلیک مستقیم ماموران"
+    },
+
+    {
+        "id": "48",
+        "fullName": "حدیث نجفی",
+        "source": "/images/hadis.jpg",
+        "age": "نامشخص",
+        "city": "کرج",
+        "death": "۱ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "49",
+        "fullName": "حنانه کیا",
+        "source": "/images/hana.jpg",
+        "age": "نامشخص",
+        "city": "نوشهر",
+        "death": "۳۰ شهریور",
+        "des": "در راه بازگشت از دندانپزشکی توسط شلیک ماموران"
+    },
+
+    {
+        "id": "8",
+        "fullName": "ابوبکر علیزهی",
+        "source": "/images/aboobakr.jpg",
+        "age": "۲۴",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "شلیک مستقیم ماموران"
+    },
+
+    {
+        "id": "9",
+        "fullName": "ابوبکر نهتانی",
+        "source": "/images/nah.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "10",
+        "fullName": "احمد سرگلزایی",
+        "source": "/images/sar.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "11",
+        "fullName": "احمد شهبخش",
+        "source": "/images/ah.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "12",
+        "fullName": "احمد شکراللهی",
+        "source": "/images/shokr.jpg",
+        "age": "۲۴",
+        "city": "اصفهان",
+        "death": "۱۶ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "13",
+        "fullName": "احسان خانمحمدی",
+        "source": "/images/khan.jpg",
+        "age": "۲۹",
+        "city": "تهران",
+        "death": "۹ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "14",
+        "fullName": "احسان علیبازی",
+        "source": "/images/eh.jpg",
+        "age": "نامشخص",
+        "city": "شهرقدس",
+        "death": "۱ مهر",
+        "des": "نامشخص"
+    },
+    
+    {
+        "id": "15",
+        "fullName": "اسماعیل آبیل",
+        "source": "/images/abil.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "16",
+        "fullName": "اسماعیل حسینزهی",
+        "source": "/images/es.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "17",
+        "fullName": "اسماعیل حیدری",
+        "source": "/images/hei.jpg",
+        "age": "۱۸",
+        "city": "مازندران",
+        "death": "۳۱ شهریور",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "18",
+        "fullName": "اقبال شهنوازی",
+        "source": "/images/egh.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "19",
+        "fullName": "امیرحسین بسطامی",
+        "source": "/images/ami.jpg",
+        "age": "نامشخص",
+        "city": "کرمانشاه",
+        "death": "۱۰ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "20",
+        "fullName": "امیررضا نادرزاده",
+        "source": "/images/nader.jpg",
+        "age": "نامشخص",
+        "city": "نوشهر",
+        "death": "۶ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "21",
+        "fullName": "امیر شهنوازی",
+        "source": "/images/shahna.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۶ آبان",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "22",
+        "fullName": "امیرحمزه شهنوازی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "23",
+        "fullName": "امیر فولادی",
+        "source": "/images/foo.jpg",
+        "age": "۱۵",
+        "city": "اسلامآباد غرب",
+        "death": "۳۰ شهریور",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "24",
+        "fullName": "امیرمهدی فرخیپور",
+        "source": "/images/far.jpg",
+        "age": "۱۷",
+        "city": "تهران",
+        "death": "۶ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "25",
+        "fullName": "امیر نوروزی",
+        "source": "/images/amirr.jpg",
+        "age": "۱۶",
+        "city": "انزلی",
+        "death": "۱ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "27",
+        "fullName": "امیرحسین میرکازهی-ریگی",
+        "source": "/images/mir.jpg",
+        "age": "۱۹",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "28",
+        "fullName": "امیرحسین مهدوی",
+        "source": "/images/mah.jpg",
+        "age": "نامشخص",
+        "city": "رشت",
+        "death": "۳۰ شهریور",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "29",
+        "fullName": "امید نارویی",
+        "source": "/images/omid.jpg",
+        "age": "۱۶",
+        "city": "زاهدان",
+        "death": "۶ آبان",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "30",
+        "fullName": "امین گله بچه",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "31",
+        "fullName": "امین الله قلجایی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "32",
+        "fullName": "امین معرفت",
+        "source": "/images/non.jpg",
+        "age": "۱۶",
+        "city": "اشنویه",
+        "death": "۳۰ شهریور",
+        "des": "شلیک مأموران به سر"
+    },
+
+    {
+        "id": "33",
+        "fullName": "بلال آنشینی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "34",
+        "fullName": "بلال محمد آنشینی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "35",
+        "fullName": "بلال محمد عالی زهی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "36",
+        "fullName": "بهار افشاری",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "تهران",
+        "death": "۱ آبان",
+        "des": "او را کشتند و به دروغ گفتن خپدکشی کرده"
+    },
+
+    {
+        "id": "37",
+        "fullName": "بهنام لایقپور",
+        "source": "/images/beh.jpg",
+        "age": "۳۷",
+        "city": "رشت",
+        "death": "۳۰ شهریور",
+        "des": "به ضرب گلوله مأموران کشته شد"
+    },
+
+    {
+        "id": "38",
+        "fullName": "پارسا رضادوست",
+        "source": "/images/parsa.jpg",
+        "age": "۱۷",
+        "city": "هشتگرد",
+        "death": "۱ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "39",
+        "fullName": "پدرام آذرنوش",
+        "source": "/images/ped.jpg",
+        "age": "۱۶",
+        "city": "دهدشت",
+        "death": "۳۱ شهریور",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "40",
+        "fullName": "پویا شیدا",
+        "source": "/images/poo.jpg",
+        "age": "نامشخص",
+        "city": "ارومیه",
+        "death": "۳۰ شهریور",
+        "des": "از ناحیه قلب مورد شلیک ماموران"
+    },
+
+    {
+        "id": "41",
+        "fullName": "پویا احمدپور پسیخانی",
+        "source": "/images/pesi.jpg",
+        "age": "نامشخص",
+        "city": "رشت",
+        "death": "۱ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "42",
+        "fullName": "پویان منبری",
+        "source": "/images/non.jpg",
+        "age": "۲۹",
+        "city": "سنندج",
+        "death": "۱۶ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "43",
+        "fullName": "جلیل رخشانی",
+        "source": "/images/jalil.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "44",
+        "fullName": "جلیل محمد زهی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "45",
+        "fullName": "جواد توشه",
+        "source": "/images/non.jpg",
+        "age": "۱۲",
+        "city": "زاهدان",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "46",
+        "fullName": "جواد حیدری",
+        "source": "/images/heli.jpg",
+        "age": "نامشخص",
+        "city": "قزوین",
+        "death": "۳ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "47",
+        "fullName": "جواد خوانساری",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "تهران",
+        "death": "۱ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "50",
+        "fullName": "حسین حاجیان",
+        "source": "/images/hasan.jpg",
+        "age": "۲۷",
+        "city": "بوشهر",
+        "death": "۲۰ آبان",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "51",
+        "fullName": "حسین محمدی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "کرمانشاه",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "52",
+        "fullName": "حسینعلی کیا",
+        "source": "/images/kia.jpg",
+        "age": "نامشخص",
+        "city": "نوشهر",
+        "death": "۲ مهر",
+        "des": "دانشجو مهندسی برق مازندران"
+    },
+
+    {
+        "id": "53",
+        "fullName": "حمزه نارویی",
+        "source": "/images/hamzze.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "54",
+        "fullName": "حمیدعیسی زهی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "55",
+        "fullName": "حمید فولادوند",
+        "source": "/images/hamid.jpg",
+        "age": "نامشخص",
+        "city": "پاکدشت",
+        "death": "۱ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "57",
+        "fullName": "حمیدرضا صانعیپور",
+        "source": "/images/non.jpg",
+        "age": "۲۵",
+        "city": "همدان",
+        "death": "۳ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "60",
+        "fullName": "داریوش علیزاده",
+        "source": "/images/dar.jpg",
+        "age": "نامشخص",
+        "city": "سنندج",
+        "death": "۱۶ مهر",
+        "des": ""
+    },
+
+    {
+        "id": "61",
+        "fullName": "دینا محمودی",
+        "source": "/images/non.jpg",
+        "age": "۹",
+        "city": "پیرانشهر",
+        "death": "۸ آبان",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "62",
+        "fullName": "ذوالفقار جانحسنزئی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۱۱ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "63",
+        "fullName": "ذکریا براهویی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "64",
+        "fullName": "رافع نارویی",
+        "source": "/images/raf.jpg",
+        "age": "۲۳",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "65",
+        "fullName": "رضا شهپرنیا",
+        "source": "/images/rz.jpg",
+        "age": "۲۰",
+        "city": "کرمانشاه",
+        "death": "۲۹ شهریور",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "66",
+        "fullName": "رضا لطفی",
+        "source": "/images/lotfi.jpg",
+        "age": "نامشخص",
+        "city": "دهگلان",
+        "death": "۲۸ شهریور",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "67",
+        "fullName": "روزبه خادمی",
+        "source": "/images/rooz.jpg",
+        "age": "نامشخص",
+        "city": "کرج",
+        "death": "۲ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "68",
+        "fullName": "روشنا احمدی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "بوکان",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "69",
+        "fullName": "ریاست بادل بلوچ",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "70",
+        "fullName": "زکریا خیال",
+        "source": "/images/zak.jpg",
+        "age": "۱۶",
+        "city": "پیرانشهر",
+        "death": "۲۹ شهریور",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "72",
+        "fullName": "ساسان قربانی",
+        "source": "/images/sa.jpg",
+        "age": "نامشخص",
+        "city": "رضوانشهر",
+        "death": "۳۱ شهریور",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "73",
+        "fullName": "سامر هاشم زهی",
+        "source": "/images/sam.jpg",
+        "age": "۱۶",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "جمعه خونین زاهدان"
+    },
+
+    {
+        "id": "74",
+        "fullName": "سپهر بیرانوند",
+        "source": "/images/sep.jpg",
+        "age": "۱۷",
+        "city": "خرم آباد",
+        "death": "۱۸ آبان",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "75",
+        "fullName": "سدیس کشانی",
+        "source": "/images/sedis.jpg",
+        "age": "۱۴",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "جمعه خونین زاهدان"
+    },
+
+    {
+        "id": "76",
+        "fullName": "سعید ایرانمنش",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "کرمان",
+        "death": "نامشخص",
+        "des": "دانشجوی دانشگاه باهنر"
+    },
+
+    {
+        "id": "77",
+        "fullName": "سعید محمدی",
+        "source": "/images/non.jpg",
+        "age": "۲۱",
+        "city": "اسلامآباد غرب",
+        "death": "۳۰ شهریور",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "78",
+        "fullName": "سلیمان عرب",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "جمعه خونین زاهدان"
+    },
+
+    {
+        "id": "79",
+        "fullName": "سلمان ملکی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۱۰ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "80",
+        "fullName": "سیدسینا موسوی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "آمل",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "81",
+        "fullName": "سیدعباس میرموسی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "لنگرود",
+        "death": "۳۰ شهریور",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "82",
+        "fullName": "شیرین علیزاده",
+        "source": "/images/shi.jpg",
+        "age": "۳۶",
+        "city": "متل قو مازندران",
+        "death": "۳۱ شهریور",
+        "des": "اثابت گلوله به سر هنگام فیلمبرداری"
+    },
+
+    {
+        "id": "83",
+        "fullName": "سینا فیروزآبادی",
+        "source": "/images/sina.jpg",
+        "age": "نامشخص",
+        "city": "داراب",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "84",
+        "fullName": "سینا نادری",
+        "source": "/images/sinna.jpg",
+        "age": "۲۲",
+        "city": "کرمانشاه",
+        "death": "۲۱ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "85",
+        "fullName": "صدرالدین لیتانی",
+        "source": "/images/non.jpg",
+        "age": "۲۷",
+        "city": "اشنویه",
+        "death": "۳۰ شهریور",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "86",
+        "fullName": "صلاح الدین گمشاد زهی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "87",
+        "fullName": "صمد شهوزهی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "88",
+        "fullName": "صمد برگینیا",
+        "source": "/images/non.jpg",
+        "age": "۵۲",
+        "city": "پیرانشهر",
+        "death": "۶ مهر",
+        "des": "بر اثر شدت جراحت در بیمارستان"
+    },
+
+    {
+        "id": "89",
+        "fullName": "عبدالرحمن بلوچیخواه",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "90",
+        "fullName": "عبدالصمد ثابتی زاده",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "جمعه خونین زاهدان"
+    },
+
+    {
+        "id": "91",
+        "fullName": "عبدالغفور دهمرده",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "جمعه خونین آبادان"
+    },
+
+    {
+        "id": "92",
+        "fullName": "عبدالغفور نوربراهویی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "93",
+        "fullName": "عبدالسلام قادر-گلوان",
+        "source": "/images/non.jpg",
+        "age": "۳۲",
+        "city": "اشنویه",
+        "death": "۴ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "94",
+        "fullName": "عبدالله محمدپور",
+        "source": "/images/non.jpg",
+        "age": "۱۷",
+        "city": "روستای بالو ارومیه",
+        "death": "۳۰ شهریور",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "95",
+        "fullName": "عبدالملک شه بخش",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "96",
+        "fullName": "عبدالمجید ریگی",
+        "source": "/images/rigi.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "زاهدان"
+    },
+
+    {
+        "id": "97",
+        "fullName": "عرفان خزایی",
+        "source": "/images/erf.jpg",
+        "age": "نامشخص",
+        "city": "شهریار",
+        "death": "۳۰ شهریور",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "98",
+        "fullName": "عرفان رضایی",
+        "source": "/images/erfii.jpg",
+        "age": "۲۱",
+        "city": "آمل",
+        "death": "۳۰ شهریور",
+        "des": "اثابت گلوله مقابل فرمانداری آمل"
+    },
+
+    {
+        "id": "99",
+        "fullName": "عرفان زمانی",
+        "source": "/images/er.jpg",
+        "age": "۲۷",
+        "city": "لاهیجان",
+        "death": "۱۲ آبان",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "100",
+        "fullName": "عرفان نظربیگی",
+        "source": "/images/nazar.jpg",
+        "age": "نامشخص",
+        "city": "تهران",
+        "death": "۶ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "101",
+        "fullName": "علی اصغر گودبیگلو",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "نامشخص",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "102",
+        "fullName": "علی اکبر حلقه به گوش",
+        "age": "نامشخص",
+        "source": "/images/non.jpg",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "103",
+        "fullName": "علی اصغر براهویی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "ناشناس"
+    },
+
+    {
+        "id": "104",
+        "fullName": "علی عاقلی",
+        "source": "/images/alii.jpg",
+        "age": "۲۸",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": ""
+    },
+
+    {
+        "id": "105",
+        "fullName": "علی مظفری",
+        "source": "/images/mo.jpg",
+        "age": "نامشخص",
+        "city": "قوچان",
+        "death": "۳۰ شهریور",
+        "des": "بازیکن والیبال سایپا"
+    },
+
+    {
+        "id": "106",
+        "fullName": "علیرضا فتحی",
+        "source": "/images/fat.jpg",
+        "age": "۲۵",
+        "city": "سقز",
+        "death": "۳۰ شهریور",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "107",
+        "fullName": "علیرضا حسینی",
+        "source": "/images/has.jpg",
+        "age": "نامشخص",
+        "city": "تهران",
+        "death": "۱ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "108",
+        "fullName": "خلیل قنبرزهی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "109",
+        "fullName": "ذوالفقار حسنزهی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "111",
+        "fullName": "سامی هاشمزهی",
+        "source": "/images/non.jpg",
+        "age": "۳۳",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "113",
+        "fullName": "سلیمان عرب",
+        "source": "/images/sol.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "114",
+        "fullName": "صلاح الدین گمشادزهی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "115",
+        "fullName": "عبدالجلیل رخشانی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "116",
+        "fullName": "عبدالخالق شهنوازی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "117",
+        "fullName": "عبدالمنان رخشانی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "118",
+        "fullName": "عبدالوحید توحیدنیا",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "اصابت گلوله جنگی به سینه"
+    },
+
+    {
+        "id": "119",
+        "fullName": "عزیزالله کبدانی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "120",
+        "fullName": "علی عاقلی",
+        "source": "/images/non.jpg",
+        "age": "۲۸",
+        "city": "زاهدان",
+        "death": "نامشخص",
+        "des": "جمعه خونین"
+    },
+
+    {
+        "id": "121",
+        "fullName": "عمران شه بخش",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "122",
+        "fullName": "فرزاد شه بخش",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "123",
+        "fullName": "ماه الدین شیروزهی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "124",
+        "fullName": "مجد بلوچزهی شهبخش",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "125",
+        "fullName": "محمد اقبال نائب زهی",
+        "source": "/images/moo.jpg",
+        "age": "۱۶",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "فاقد شناسنامه"
+    },
+
+    {
+        "id": "126",
+        "fullName": "محمدامین گمشادزهی",
+        "source": "/images/non.jpg",
+        "age": "۱۷",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "127",
+        "fullName": "محمدادیب توتازهی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "128",
+        "fullName": "محمدعلی اسماعیلزهی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "129",
+        "fullName": "محمدعلی گمشادزهی",
+        "source": "/images/non.jpg",
+        "age": "۱۸",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "130",
+        "fullName": "محمدفاروق رخشانی",
+        "source": "/images/moo.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "140",
+        "fullName": "محمد براهویی",
+        "source": "/images/noo.jpg",
+        "age": "۱۸",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "طلبه"
+    },
+
+    {
+        "id": "141",
+        "fullName": "محمود حسنزهی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "142",
+        "fullName": "محمود شهنوازی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "143",
+        "fullName": "محی الدین شهبخش",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "144",
+        "fullName": "مرتضی حسنزهی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "145",
+        "fullName": "مصطفی بریچی",
+        "source": "/images/brich.jpg",
+        "age": "۲۴",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "اصابت گلوله جنگی به قلب"
+    },
+
+    {
+        "id": "146",
+        "fullName": "منصور رخشانی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "147",
+        "fullName": "موسی ویراء",
+        "source": "/images/non.jpg",
+        "age": "۱۸",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "148",
+        "fullName": "مهدی آنشینی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "149",
+        "fullName": "نام نامشخص میرشکار",
+        "source": "/images/non.jpg",
+        "age": "۲",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "150",
+        "fullName": "نجم الدین تاجیک",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "مهاجر اهل افغانستان"
+    },
+
+    {
+        "id": "151",
+        "fullName": "نعمت الله کبدانی",
+        "source": "/images/k.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "152",
+        "fullName": "یاسر شاهوزهی",
+        "source": "/images/yas.jpg",
+        "age": "۱۶",
+        "city": "زاهدان",
+        "death": "اصابت گلوله جنگی به قلب",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "153",
+        "fullName": "یونس نارویی",
+        "source": "/images/y.jpg",
+        "age": "نامشخص",
+        "city": "زاهدان",
+        "death": "۸ مهر",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "154",
+        "fullName": "کیان پیر فلک",
+        "source": "/images/kian.jpg",
+        "age": "۹",
+        "city": "ایذه",
+        "death": "۲۵ آبان",
+        "des": "اصابت گلوله جنگی توسط مأموران حکومتی"
+    },
+
+    {
+        "id": "155",
+        "fullName": "دانیال پابندی",
+        "source": "/images/d.jpg",
+        "age": "۱۷",
+        "city": "سقز",
+        "death": "۲۵ آبان",
+        "des": "اصابت گلوله جنگی به شکم"
+    },
+
+    {
+        "id": "157",
+        "fullName": "آیلار حقی",
+        "source": "/images/ay.jpg",
+        "age": "۲۳",
+        "city": "تبریز",
+        "death": "۲۵ آبان",
+        "des": "پرت شدن از بالای ساختمان نیمه کاره توسط مأموران"
+    },
+
+    {
+        "id": "158",
+        "fullName": "برهان کرمی",
+        "source": "/images/bor.jpg",
+        "age": "نامشخص",
+        "city": "کامیاران",
+        "death": "۲۵ آبان",
+        "des": "اصابت ۳ گلوله جنگی به سر و گردن توسط تو تیرانداز سپاه"
+    },
+
+    {
+        "id": "159",
+        "fullName": "کاروان قادر شوکری",
+        "source": "/images/q.jpg",
+        "age": "نامشخص",
+        "city": "نامشخص",
+        "death": "۲۸ آبان",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "160",
+        "fullName": "طاهر عزیزی",
+        "source": "/images/tah.jpg",
+        "age": "نامشخص",
+        "city": "نامشخص",
+        "death": "۲۸ آبان",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "161",
+        "fullName": "هادی ویسی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "نامشخص",
+        "death": "۲۸ آبان",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "162",
+        "fullName": "عرفان کاکایی",
+        "source": "/images/errr.jpg",
+        "age": "نامشخص",
+        "city": "نامشخص",
+        "death": "۲۸ آبان",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "164",
+        "fullName": "سیاوش محمودی",
+        "source": "/images/si.jpg",
+        "age": "۱۷",
+        "city": "تهران",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "170",
+        "fullName": "هدیه نعیمانی",
+        "source": "/images/hedi.jpg",
+        "age": "۲۵",
+        "city": "نوشهر",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "171",
+        "fullName": "میلاد زارع",
+        "source": "/images/milad.jpg",
+        "age": "نامشخص",
+        "city": "نامشخص",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "172",
+        "fullName": "مینو مجیدی",
+        "source": "/images/minoo.jpg",
+        "age": "نامشخص",
+        "city": "نامشخص",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "173",
+        "fullName": "یاسین جمالزاده",
+        "source": "/images/yasin.jpg",
+        "age": "۲۶",
+        "city": "رضوانشهر",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "175",
+        "fullName": "مهسا موگوی",
+        "source": "/images/mog.jpg",
+        "age": "نامشخص",
+        "city": "نامشخص",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "176",
+        "fullName": "هاجر عباسی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "نامشخص",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "177",
+        "fullName": "احمد سارانی",
+        "source": "/images/sarani.jpg",
+        "age": "۲۶",
+        "city": "زاهدان",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "179",
+        "fullName": "حسینعلی کیاکجوری",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "نامشخص",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "180",
+        "fullName": "محسن محمدی",
+        "source": "/images/mm.jpg",
+        "age": "۳۷",
+        "city": "کردستان",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "181",
+        "fullName": "محمدحسن ترکمان",
+        "source": "/images/t.jpg",
+        "age": "نامشخص",
+        "city": "نامشخص",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "182",
+        "fullName": "غزاله چلاوی",
+        "source": "/images/ch.jpg",
+        "age": "نامشخص",
+        "city": "آمل",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "183",
+        "fullName": "سعید مرادی",
+        "source": "/images/ss.jpg",
+        "age": "نامشخص",
+        "city": "کردستان",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "184",
+        "fullName": "فواد محمدی",
+        "source": "/images/foa.jpg",
+        "age": "نامشخص",
+        "city": "کردستان",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "185",
+        "fullName": "زانیار الله مرادی",
+        "source": "/images/z.jpg",
+        "age": "نامشخص",
+        "city": "نامشخص",
+        "death": "کردستان",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "186",
+        "fullName": "سالار مجاور",
+        "source": "/images/salar.jpg",
+        "age": "۳۰",
+        "city": "بوکان",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "187",
+        "fullName": "اسعد رحیمی",
+        "source": "/images/asa.jpg",
+        "age": "نامشخص",
+        "city": "کردستان",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "190",
+        "fullName": "حمید گلی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "کردستان",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "191",
+        "fullName": "عیسی بیگلری",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "کردستان",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "192",
+        "fullName": "سامان قادر بیگی",
+        "source": "/images/sss.jpg",
+        "age": "نامشخص",
+        "city": "کردستان",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "193",
+        "fullName": "عبدالرحمن بختیاری",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "کردستان",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "194",
+        "fullName": "هژار مام موسوی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "کردستان",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "195",
+        "fullName": "هیوا جانان",
+        "source": "/images/hiva.jpg",
+        "age": "نامشخص",
+        "city": "کردستان",
+        "death": "۲۶ آبان",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "196",
+        "fullName": "آراد حسینپور",
+        "source": "/images/azad.jpg",
+        "age": "نامشخص",
+        "city": "کردستان",
+        "death": "۲۶ آبان",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "197",
+        "fullName": "غفوری مولودی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "کردستان",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "198",
+        "fullName": "آرام حبیبی",
+        "source": "/images/aram.jpg",
+        "age": "نامشخص",
+        "city": "کردستان",
+        "death": "۲۶ آبان",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "199",
+        "fullName": "شاهو بهمنی",
+        "source": "/images/shaj.jpg",
+        "age": "نامشخص",
+        "city": "کردستان",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "200",
+        "fullName": "امجد عنایتی",
+        "source": "/images/amk.jpg",
+        "age": "نامشخص",
+        "city": "کردستان",
+        "death": "۲۶ آبان",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "201",
+        "fullName": "آسو قادری",
+        "source": "/images/asoo.jpg",
+        "age": "نامشخص",
+        "city": "کردستان",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "202",
+        "fullName": "شهریار محمدی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "کردستان",
+        "death": "۲۷ آبان",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "203",
+        "fullName": "کمال احمدپور",
+        "source": "/images/kam.jpg",
+        "age": "نامشخص",
+        "city": "کردستان",
+        "death": "۲۷ آبان",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "204",
+        "fullName": "مهران رحمانی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "کردستان",
+        "death": "۲۷ آبان",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "205",
+        "fullName": "امیر فراستی فرشاد",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "کردستان",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "206",
+        "fullName": "میلاد معروفی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "کردستان",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "207",
+        "fullName": "مصطفی شعبانی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "کردستان",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "208",
+        "fullName": "امید حسنی",
+        "source": "/images/ooo.jpg",
+        "age": "نامشخص",
+        "city": "کردستان",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "209",
+        "fullName": "سعید پیرمغانژ",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "کردستان",
+        "death": "نامشخص",
+        "des": "نامشخص"
+    },
+
+    {
+        "id": "210",
+        "fullName": "امیرمحمد نوروزی",
+        "source": "/images/non.jpg",
+        "age": "نامشخص",
+        "city": "کردستان",
+        "death": "نامشخص",
+        "des": "اصابت گلوله ساچمه به سر و چشم  و فوت در اتاق عمل"
+    }
+]

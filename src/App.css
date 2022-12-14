@@ -1,0 +1,278 @@
+.App {
+    display: flex;
+    justify-content: center;
+}
+
+.IranFlagStyle {
+    margin-top: 20px;
+    border-radius: 5px;
+    width: 350px;
+}
+
+.cont {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
+
+@media only screen and (max-width: 600px) {
+    .cont {
+        display: block;
+        margin-left: 7%;
+        font-size: 25px;
+    }
+}
+
+.Year57 {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(71, 67, 67);
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.Year57:hover {
+    background-color: rgb(238, 50, 50);
+}
+
+.Year57 h4 {
+    text-align: center;
+    color: white;
+    padding-top: 70px;
+}
+
+
+.Year60 {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(63, 59, 59);
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.Year60:hover {
+    background-color: rgb(238, 50, 50);
+}
+
+.Year60 h4 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding-top: 70px;
+}
+
+.Year70 {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(49, 47, 49);
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.Year70:hover {
+    background-color: rgb(238, 50, 50);
+}
+
+.Year70 h4 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding-top: 70px;
+}
+
+.Year80 {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(34, 36, 34);
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.Year80:hover {
+    background-color: rgb(238, 50, 50);
+}
+
+.Year80 h4 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding-top: 70px;
+}
+
+.Year90 {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(24, 23, 23);
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.Year90:hover {
+    background-color: rgb(238, 50, 50);
+}
+
+.Year90 h4 {
+    text-align: center;
+    color: white;
+    padding-top: 70px;
+}
+
+.Year1401 {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.Year1401:hover {
+    background-color: rgb(238, 50, 50);
+}
+
+.Year1401 h4 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding-top: 70px;
+}
+
+@media only screen and (max-width: 600px) {
+    .Year57,
+    .Year60,
+    .Year70,
+    .Year80,
+    .Year90,
+    .Year1401 {
+        width: 343px;
+    }
+}
+
+a {
+    appearance: none;
+    text-decoration: none;
+}
+
+.card {
+    height: 300px;
+    width: 300px;
+    font-size: 15px;
+    background-color: rgb(0, 0, 0);
+    direction: rtl;
+    border-radius: 15px;
+    color: white;
+    margin: 5px 5px 5px 5px;
+}
+
+.pp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+    margin-top: 15px;
+}
+
+@media only screen and (max-width: 600px) {
+    .card {
+        height: 340px;
+        width: 375px;
+    }
+}
+
+.card h2 {
+    text-align: center;
+    padding-top: 8px;
+}
+
+.card span {
+    padding-right: 15px;
+}
+
+.title1401 {
+    text-align: center; 
+}
+
+@media only screen and (max-width: 600px) {
+    .title1401 {
+        text-align: center; 
+    }
+}
+
+.HomeNoti {
+    height: 200px;
+    width: 750px;
+    background-color: rgb(99, 205, 50);
+    color: black;
+    direction: rtl;
+    border-radius: 5px;
+    margin-left: 250px;
+}
+
+@media only screen and (max-width: 600px) {
+    .HomeNoti {
+        height: 320px;
+        width: 320px;
+        padding: 15px;
+        margin-left: 24px;
+    }
+}
+
+.parentInp {
+    display: flex;
+    justify-content: center;
+}
+
+.serachInp {
+    direction: rtl;
+    padding: 5px;
+    width: 280px;
+}
+
+.soonTitle {
+    display: flex;
+    justify-content: center;
+}
+
+.soonTitle h3 {
+    text-align: center;
+}
+
+.cpa {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: center;
+}
+
+.count {
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(253, 236, 236);
+    color: rgb(245, 13, 13);
+}
+
+.count button {
+    background-color: black;
+    appearance: none;
+    padding: 15px;
+    color: white;
+    border-radius: 10px;
+    border-style: none;
+}
+
+.count b {
+    font-size: 47px;
+    border-radius: 50%;
+    color: red;
+}
+
+.card img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-right: 85px;
+}
+
+@media only screen and (max-width: 600px) {
+    .card img {
+        margin-right: 130px;
+    }
+}
