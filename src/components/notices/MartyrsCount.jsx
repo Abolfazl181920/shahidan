@@ -5,7 +5,7 @@ const MartyrsCount = () => {
     return (
         <CountUp
             start={0}
-            end={2600}
+            end={2700}
             duration={5}
         >
         {({ countUpRef, start }) => (
