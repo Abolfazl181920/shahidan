@@ -13,6 +13,7 @@
     display: flex;
     justify-content: space-evenly;
     margin-top: 100px;
+    flex-wrap: wrap;
 }
 
 @media only screen and (max-width: 600px) {
@@ -23,12 +24,24 @@
     }
 }
 
+.p {
+    margin-top: 100px;
+}
+
+.img1 {
+    width: 400px;
+}
+
 .Year57 {
-    height: 200px;
+    height: 150px;
     width: 200px;
-    background-color: rgb(71, 67, 67);
+    background-color: rgb(0, 0, 0);
     border-radius: 10px;
     cursor: pointer;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 27px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 27px;
 }
 
 .Year57:hover {
@@ -43,11 +56,15 @@
 
 
 .Year60 {
-    height: 200px;
+    height: 150px;
     width: 200px;
-    background-color: rgb(63, 59, 59);
+    background-color: rgb(0, 0, 0);
     border-radius: 10px;
     cursor: pointer;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 27px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 27px;
 }
 
 .Year60:hover {
@@ -61,11 +78,15 @@
 }
 
 .Year70 {
-    height: 200px;
+    height: 150px;
     width: 200px;
-    background-color: rgb(49, 47, 49);
+    background-color: rgb(0, 0, 0);
     border-radius: 10px;
     cursor: pointer;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 27px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 27px;
 }
 
 .Year70:hover {
@@ -79,11 +100,15 @@
 }
 
 .Year80 {
-    height: 200px;
+    height: 150px;
     width: 200px;
-    background-color: rgb(34, 36, 34);
+    background-color: rgb(0, 0, 0);
     border-radius: 10px;
     cursor: pointer;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 27px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 27px;
 }
 
 .Year80:hover {
@@ -97,11 +122,15 @@
 }
 
 .Year90 {
-    height: 200px;
+    height: 150px;
     width: 200px;
-    background-color: rgb(24, 23, 23);
+    background-color: rgb(0, 0, 0);
     border-radius: 10px;
     cursor: pointer;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 27px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 27px;
 }
 
 .Year90:hover {
@@ -115,15 +144,16 @@
 }
 
 .Year1401 {
-    height: 200px;
+    height: 150px;
     width: 200px;
-    background-color: rgb(0, 0, 0);
+    background-color: #9932cc;
     border-radius: 10px;
     cursor: pointer;
+    border-radius: 22px;
 }
 
-.Year1401:hover {
-    background-color: rgb(238, 50, 50);
+.Year1401 span {
+    color: black;
 }
 
 .Year1401 h4 {

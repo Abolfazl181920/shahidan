@@ -1,5 +1,7 @@
 import { Link } from 'react-router-dom'
 import '../../App.css'
+import Img1 from '../../../public/iran/7117.jpg'
+import Img2 from '../../../public/iran/71177.jpg'
 
 const Years = () => {
     return (
@@ -48,10 +50,15 @@ const Years = () => {
             <Link to='1401'>
                 <a>
                     <div className='Year1401' title='Iranian National Revolution 1401'>
-                        <h4>کشته شدگان انقلاب ملی ۱۴۰۱</h4>
+                        <h4>کشته شدگان <span>انقلاب ملی</span> ۱۴۰۱</h4>
                     </div>
                 </a>
             </Link>
+
+            <div className='p'>
+                <img src={Img1} className='img1' />
+                <img src={Img2} className='img2' />
+            </div>
 
         </div>
     )
