@@ -5,8 +5,8 @@ const MartyrsCount = () => {
     return (
         <CountUp
             start={0}
-            end={4900}
-            duration={5}
+            end={5000}
+            duration={10}
         >
         {({ countUpRef, start }) => (
             <div className='cpa'>
